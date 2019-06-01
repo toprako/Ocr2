@@ -1,0 +1,2 @@
+process_begin: CreateProcess(NULL, "", ...) failed.
+C:/Users/Mert/AppData/Local/Android/Sdk/ndk-bundle/build//../build/core/build-all.mk:94: Android NDK: WARNING: There are no modules to build in this project!    

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ocr2</string>
+    <string-array name="dil_dizi">
+        <item>English</item>
+        <item>Turkish</item>
+    </string-array>
+    <string-array name="esik_dizi">
+        <item>85</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+    </string-array>
+</resources>
